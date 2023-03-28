@@ -3,5 +3,5 @@
 
 ## Objectives
 ### - Analyzing sales by state, category, month, year, region
-    - Create a visualization the customer profile according to age range, gender and number of customers
-    - Discuss what can be done to increase sales across the company
+### - Create a visualization the customer profile according to age range, gender and number of customers
+### - Discuss what can be done to increase sales across the company
